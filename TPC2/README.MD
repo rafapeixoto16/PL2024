@@ -63,4 +63,4 @@ Para este trabalho usei a biblioteca *re* do python e utilizei o método sub usa
 
 Comecei por procurar ocorrências de *#*, seguindo do blockquote, code, horizontal rule. Estou a levar em conta alguns casos onde no inicio estão tanto bold com italic e a meio um deles termina.
 
-Para os links como para as imagens usei dois grupos. Para terminar no caso das listas ordenadas no primeiro elemento (identificador pelo 1) coloquei a tag < ol > e no caso onde a frase a seguir a um elemento de uma lista não é iniciado pelo um numero termino essa lista < /ol >
+Tanto para os links, tanto para as imagens usei dois grupos. Para terminar no caso das listas ordenadas no primeiro elemento (identificador pelo 1) coloquei a tag < ol > e no caso onde a frase a seguir a um elemento de uma lista não é iniciado pelo um numero termino essa lista < /ol >
