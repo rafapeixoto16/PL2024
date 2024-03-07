@@ -1,4 +1,4 @@
-# TPC2 : Somador on/off
+# TPC3 : Somador on/off
 
 
 ## Enunciado
@@ -16,5 +16,5 @@ Sempre que encontrar o caráter “=”, o resultado da soma é colocado na saí
 
 ## Solução obtida 
 
-Neste trabalho usei a função re.finditer com o *pattern* r"(on|off|=|\d+)" e com a flag re.I com o intuito de todas as combinações entre maiúsculas e minúsculas serem levadas em questão. Depois para cada um dos casos vai acontecer algo diferente.
+Neste trabalho usei a função re.finditer com o *pattern* r"(on|off|=|-?\d+)" e com a flag re.I com o intuito de todas as combinações entre maiúsculas e minúsculas serem levadas em questão. Depois para cada um dos casos vai acontecer algo diferente.
 O caso do *on* vai por a *flag* ***ativo*** a verdadeiro, *off* a falso. Se for um dígito ou mais vai incrementar uma variável *somatorio* e o *=* vai dar print a variável *somatorio*.
