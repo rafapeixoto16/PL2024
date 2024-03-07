@@ -12,7 +12,7 @@ Construir um analisador léxico para uma liguagem de query com a qual se podem e
 
 ## Solução obtida 
 
-Começei por analisar os exemplos presentes no ["github dadeaz-ply"](https://github.com/dabeaz/ply/tree/master/example/BASIC) e parti dai cheguei a 10 tokens:
+Começei por analisar os exemplos presentes no ["github dadeaz-ply"](https://github.com/dabeaz/ply/tree/master/example/BASIC), e partir dai cheguei a 10 tokens:
 
 - PR : palavras reservadas
 - Name : campos
