@@ -1,0 +1,64 @@
+{
+    "stock": [
+        {
+            "cod": "A1",
+            "nome": "\u00e1gua 0.5L",
+            "quant": 18,
+            "preco": 0.45
+        },
+        {
+            "cod": "A2",
+            "nome": "Coca 0.5L",
+            "quant": 100000,
+            "preco": 0.8
+        },
+        {
+            "cod": "A3",
+            "nome": "Pepsi",
+            "quant": 8,
+            "preco": 0.1
+        },
+        {
+            "cod": "A4",
+            "nome": "RedBull",
+            "quant": 8,
+            "preco": 2
+        },
+        {
+            "cod": "A5",
+            "nome": "chips",
+            "quant": 8,
+            "preco": 1.3
+        },
+        {
+            "cod": "A6",
+            "nome": "Lays",
+            "quant": 8,
+            "preco": 0.99
+        },
+        {
+            "cod": "A7",
+            "nome": "Batata Camp",
+            "quant": 9,
+            "preco": 1.2
+        },
+        {
+            "cod": "A8",
+            "nome": "\u00e1gua 1L",
+            "quant": 8,
+            "preco": 0.7
+        },
+        {
+            "cod": "A9",
+            "nome": "\u00e1gua 1.5L",
+            "quant": 8,
+            "preco": 1.7
+        },
+        {
+            "cod": "A10",
+            "nome": "\u00e1gua 2.0L",
+            "quant": 8,
+            "preco": 2.9
+        }
+    ]
+}
