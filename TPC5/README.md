@@ -1,4 +1,4 @@
-# TPC4 : Máquina de Vendin
+# TPC5 : Máquina de Vendin
 
 ## Enunciado
 
